@@ -1,2 +1,3 @@
 # lara
-LARA main documentation and organisation repository with WIKI
+
+**!! The LARAsuite moved to [gitlab.com/larasuite](https://gitlab.com/larasuite) !!**
